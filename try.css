@@ -1,0 +1,167 @@
+.top{
+    background-color:darkgray;
+    font-family: cursive;
+    margin: auto;
+    border-style: groove solid;
+    border-width: 7.5px;
+}
+
+.head{
+    color:darkmagenta;
+    font-family:serif;
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 4rem;
+    color:skyblue;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3rem;
+    color: firebrick;
+}
+
+.middle{
+    text-align: center;
+    background-color: #34568B;
+    border-style:double solid;
+    border-color: black;
+    border-width: 7.5px;
+}
+
+
+.fimg{
+    border-radius: 40%;
+    border: 5px solid;
+    height: 320px;
+    width: 280px;
+    border-style:double solid;
+    border-color: rgb(199, 235, 226);
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.ftext{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:oblique;
+    font-size: 2rem;
+    color:rgb(199, 235, 226);
+    margin-top: 230px;
+    margin-right: 20px;
+}
+
+.mtext{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkseagreen;
+
+}
+
+p{
+    font-size: 2rem;
+}
+
+.htext{
+    font-weight: bold;
+    color: burlywood;
+    font-family:cursive;
+    font-size: 3rem;
+    font-style:normal;
+    margin-left:30px ;
+    margin-top: 70px;
+}
+
+.rs{display: flex;}
+
+.ps{ display: flex;}
+
+.ss{ display: flex;}
+
+.shs{ display: flex;}
+
+.js{ display: flex;}
+
+.sus{ display: flex;}
+
+.prs{ display: flex;}
+
+.pris{ display: flex;}
+
+.shis{ display: flex;}
+
+.ras{ display: flex;}
+
+.res{ display: flex;}
+
+.ds{ display: flex;}
+
+.sdhs{ display: flex;}
+
+.sas{ display: flex;}
+
+.ks{ display: flex;}
+
+.dhs{ display: flex;}
+
+.pas{ display: flex;}
+
+hr{
+    margin-top: 50px;
+    border-top-style: double dotted;
+    border-width: 2px;
+    width: 700px;
+    margin-left: 400px;
+    border-top-color: yellow;
+    border-bottom-color: beige;
+}
+
+.ptext{
+    color:darkslategrey;
+    margin-top: 230px;
+}
+
+.pstext{
+    color:rebeccapurple;
+    font-size: 3rem;
+    margin-left: 10px;
+}
+
+.Contact{
+    padding-bottom: 20px;
+    color: darkslategrey;
+    font-size: 1.5rem;
+}
+
+.pimg{
+    border-radius: 40%;
+    border: 5px solid;
+    height: 320px;
+    width: 280px;
+    border-style:double solid;
+    border-color:black;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.line{
+    border-width: 10px;
+    border-color:darkmagenta;
+    height: 10px;
+    width: 750px;
+}
+
+.line2{
+    border-width: 10px;
+    border-color:darkmagenta;
+    height: 10px;
+    width: 550px;
+    margin-left: 600px;
+}
+
+.line3{
+    border-width: 10px;
+    border-color:darkmagenta;
+    height: 10px;
+    width: 400px;
+    margin-left: 750px;
+}
